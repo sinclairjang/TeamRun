@@ -2,7 +2,7 @@
 
 > 작성자: 장진영(danceurdance@naver.com)
 
-> 프로젝트명: Team Run
+> 프로젝트명: Team Run!
 
 1. 시나리오:
 
